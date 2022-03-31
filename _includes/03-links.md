@@ -1,3 +1,5 @@
 Links
+-------
 
-[GitHub](https://github.com/SuryajithR)
+- [LinkedIn](https://www.linkedin.com/in/suryajithr/)
+- [GitHub](https://github.com/SuryajithR)
