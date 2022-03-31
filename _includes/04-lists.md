@@ -7,5 +7,3 @@ Favorites
 3. Movies
    1. Action
    2. Sci-fi
-
-<hr>
