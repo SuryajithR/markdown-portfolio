@@ -1,8 +1,8 @@
-<hr>
+
 <div align="center">
 
   <h2>Skills</h2>
-
+<hr>
 </div>
 
 - I am good in __*Python,C*__ and __*C++*__ programming languages.<br>
