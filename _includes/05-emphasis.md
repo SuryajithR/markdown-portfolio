@@ -3,8 +3,8 @@
 
 Skills
 -------
-  
- </div>
+
+</div>
 
 - I am good in __*Python,C*__ and __*C++*__ programming languages.<br>
 - Have a good __*Knowledge*__ about __*Cosmos*__.
