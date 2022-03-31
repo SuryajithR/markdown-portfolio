@@ -1,4 +1,3 @@
 <div align="center">
-    <h4>Hello I'm</h4>
-    <h2>Suryajith R</h2>
+    <h4>Software Developer | System Engineer | Loves Coding</h4>
 </div>
