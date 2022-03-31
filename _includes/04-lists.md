@@ -1,6 +1,7 @@
-<hr>
+
 <div align="center">
 <h2>Favorites</h2>
+   <hr>
    </div>
    
 1. Football
