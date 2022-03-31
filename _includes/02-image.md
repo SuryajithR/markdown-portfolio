@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://cdn.pixabay.com/photo/2021/08/22/08/20/health-6564532_960_720.png)
+![Image of Yaktocat](https://www.tangentia.com/wp-content/themes/twentysixteen/images/perspectives/scale-with-ai-banner.jpg)
