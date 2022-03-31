@@ -1,4 +1,5 @@
 <hr>
+<div align="center">
 
 Favorites
 -------
@@ -7,3 +8,6 @@ Favorites
 3. Movies
    1. Action
    2. Sci-fi
+   
+   
+</div>
