@@ -1,3 +1,3 @@
-# Hello
+# Hello I'm
 
-## My name is Suryajith R
+## Suryajith R
